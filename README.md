@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Adnane SABER</h1>
 <h3 align="center">A passionate FullStack developer from Morocco  living in South Korea</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanesaber&label=Profile%20views&color=0e75b6&style=flat" alt="adnanesaber" /> </p>
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="adnanesaber" />
+<p align="left">  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanesaber" alt="adnanesaber" /></a> </p>
 
